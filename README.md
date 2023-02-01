@@ -31,13 +31,13 @@
 
 ### Source code structure
 
-![Source code](etc/images/Source code structure.png)
+![Source code](etc/captures/Source code structure.png)
 
 ### Default sample app
 #### (TODO: Remove after finish new features)
 #### (TODO: Capture new screens)
 
-![Authen server](etc/images/Default sample - AuthenServer.png)
-![Swagger (Api app)](etc/images/Default sample - Swaggers.png)
-![Home Page](etc/images/Default sample - Homepage.png)
+![Authen server](etc/captures/Default sample - AuthenServer.png)
+![Swagger (Api app)](etc/captures/Default sample - Swaggers.png)
+![Home Page](etc/captures/Default sample - Homepage.png)
 
