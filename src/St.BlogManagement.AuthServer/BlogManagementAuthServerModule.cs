@@ -122,6 +122,7 @@ public class BlogManagementAuthServerModule : AbpModule
             options.KeyPrefix = "BlogManagement:";
         });
 
+        
         var dataProtectionBuilder = context.Services.AddDataProtection().SetApplicationName("BlogManagement");
         if (!hostingEnvironment.IsDevelopment())
         {
